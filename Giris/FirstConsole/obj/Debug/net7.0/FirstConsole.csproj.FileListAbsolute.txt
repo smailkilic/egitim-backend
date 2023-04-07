@@ -1,0 +1,15 @@
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\bin\Debug\net7.0\FirstConsole.exe
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\bin\Debug\net7.0\FirstConsole.deps.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\bin\Debug\net7.0\FirstConsole.runtimeconfig.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\bin\Debug\net7.0\FirstConsole.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\bin\Debug\net7.0\FirstConsole.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.csproj.AssemblyReference.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.AssemblyInfoInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.AssemblyInfo.cs
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\refint\FirstConsole.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\FirstConsole.genruntimeconfig.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\FirstConsole\obj\Debug\net7.0\ref\FirstConsole.dll

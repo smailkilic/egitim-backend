@@ -1,0 +1,15 @@
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\bin\Debug\net7.0\Donguler.exe
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\bin\Debug\net7.0\Donguler.deps.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\bin\Debug\net7.0\Donguler.runtimeconfig.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\bin\Debug\net7.0\Donguler.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\bin\Debug\net7.0\Donguler.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfo.cs
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\refint\Donguler.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\Donguler.genruntimeconfig.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Donguler\obj\Debug\net7.0\ref\Donguler.dll

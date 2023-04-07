@@ -1,0 +1,15 @@
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\bin\Debug\net7.0\Gunler.exe
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\bin\Debug\net7.0\Gunler.deps.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\bin\Debug\net7.0\Gunler.runtimeconfig.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\bin\Debug\net7.0\Gunler.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\bin\Debug\net7.0\Gunler.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.csproj.AssemblyReference.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.AssemblyInfoInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.AssemblyInfo.cs
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.csproj.CoreCompileInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\refint\Gunler.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\Gunler.genruntimeconfig.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\Gunler\obj\Debug\net7.0\ref\Gunler.dll
