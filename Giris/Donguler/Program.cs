@@ -15,7 +15,6 @@
             #endregion
 
             #region Do While Dongusu
-            int sayac = 0;
             //do
             //{
             //    Console.WriteLine("Sayı: "+sayac);
