@@ -1,0 +1,15 @@
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\bin\Debug\net7.0\HazirMetodlar.exe
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\bin\Debug\net7.0\HazirMetodlar.deps.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\bin\Debug\net7.0\HazirMetodlar.runtimeconfig.json
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\bin\Debug\net7.0\HazirMetodlar.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\bin\Debug\net7.0\HazirMetodlar.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.csproj.AssemblyReference.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.AssemblyInfoInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.AssemblyInfo.cs
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\refint\HazirMetodlar.dll
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.pdb
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\HazirMetodlar.genruntimeconfig.cache
+C:\Users\kbraa\source\repos\egitim-backend\Giris\HazirMetodlar\obj\Debug\net7.0\ref\HazirMetodlar.dll
